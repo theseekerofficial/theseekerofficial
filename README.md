@@ -35,7 +35,7 @@
 <div align=center>
 
 <h2 align="center">🏰 Mirror Leech Kingdom Telegram Group</h2>
-<p align="center">As the owner of this group, I lead a community of enthusiastic individuals passionate about the latest in tech and AI.</p>
+<p align="center">As the owner of this group, I lead the best community in the telegram of mirroring and leeching.</p>
 <p align="center">
     <a href="https://t.me/+wAkK8_uXxUdlOTZl">
         <kbd>
