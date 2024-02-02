@@ -74,7 +74,7 @@
 </p>
 
 <h2 align="center">⚡ Fun Fact</h2>
-<p align="center">I fell in love with AI and I believe it's the future of technology! Also most of the images in this file are made from an IA 🤖❤️</p>
+<p align="center">I fell in love with AI and I believe it's the future of technology! Also most of the images in this file are made from an AI 🤖❤️</p>
 <p align="center">
     <a href="">
         <kbd>
