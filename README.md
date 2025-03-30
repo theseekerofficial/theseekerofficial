@@ -12,7 +12,8 @@
 
 <div align=center>
 
-<h2 align="center">🤖 My Latest Project: Echo</h2>
+<h2 align="center">🤖 My Latest Projects: Echo and MLWA</h2>
+<p align="center">While MLWA is a freemium multifunctional file manager platform. While it is a closed source project, you can access and use it using mlwa.xyz url</p>
 <p align="center">I'm currently working on an exciting project: a multifunctional bot for Telegram. It's designed to enhance user experience with a range of innovative features.</p>
 <p align="center">
     <a href="https://github.com/theseekerofficial/Echo">
