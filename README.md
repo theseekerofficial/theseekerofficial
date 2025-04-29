@@ -15,7 +15,6 @@
 <div align="center">
   <img height="180em" src="https://github-stats.seeker-s-cave.site/api?username=theseekerofficial&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=false&bg_color=00000000"/>
   <img height="180em" src="https://github-stats.seeker-s-cave.site/api/top-langs/?username=theseekerofficial&layout=compact&theme=nightowl&hide_border=false&bg_color=00000000&langs_count=8"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=theseekerofficial&theme=neon-palenight&hide_border=false&background=00000000"/>
 </div>
 
 
@@ -55,8 +54,11 @@
 
 ## ☕ Support My Work
 <div align="center">
-  <a href="https://buymeacoffee.com/the_seeker">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  <a href="https://buymeacoffee.com/the_seeker" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000"/>
+  </a>
+  <a href="https://paypal.me/jalithatharindu" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0079C1"/>
   </a>
 </div>
 
