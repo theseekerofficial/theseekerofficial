@@ -17,7 +17,7 @@
 
 ## 🚀 Coding Activity
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theseekerofficial&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Map">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theseekerofficial&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Map">
 </div>
 
 
