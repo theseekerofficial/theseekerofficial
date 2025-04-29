@@ -8,12 +8,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Enthusiast;Cloud+Native+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Enthusiast;Cloud+Native+Explorer;Linux+Lover" alt="Typing Animation" />
 </div>
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-stats.seeker-s-cave.site/api?username=theseekerofficial&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=false&bg_color=00000000"/>
+  <img height="180em" src="https://github-stats.seeker-s-cave.site/api?username=theseekerofficial&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=false&bg_color=00000000&hide=contribs"/>
   <img height="180em" src="https://github-stats.seeker-s-cave.site/api/top-langs/?username=theseekerofficial&layout=compact&theme=nightowl&hide_border=false&bg_color=00000000&langs_count=8"/>
 </div>
 
