@@ -1,86 +1,78 @@
-<h1 align="center">👋 Hi there, I'm The Seeker!</h1>
+<!-- Dynamic Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile🌌&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+</div>
 
-<h2 align="center">🚀 About Me</h2>
-<p align="center">I'm the Founder of <b>The Seeker's Cave Organization</b> and the owner of <b>Mirror Leech Kingdom Telegram Group</b>. Passionate about Python, IT, and programming, I'm currently developing a multifunctional bot for Telegram and diving deep into the world of AI. I'm studying at the Informatics Institute of Technology (IIT) Campus and am always eager to explore new tech frontiers!</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Scroll%20Down%20👇&section=header&reversal=false&textBg=false"/>
+</div>
 
-<p align="center">
-    <a href="https://github.com/theseekerofficial">
-        <kbd>
-            <img width="400" src="https://telegra.ph/file/427ce80574e3b159272d1.jpg" alt="I">
-        </kbd>
-    </a>
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-stats.seeker-s-cave.site/api?username=theseekerofficial&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=false&bg_color=00000000"/>
+  <img height="180em" src="https://github-stats.seeker-s-cave.site/api/top-langs/?username=theseekerofficial&layout=compact&theme=nightowl&hide_border=false&bg_color=00000000&langs_count=8"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=theseekerofficial&theme=neon-palenight&hide_border=false&background=00000000"/>
+</div>
 
-<div align=center>
 
-<h2 align="center">🤖 My Latest Projects: Echo and MLWA</h2>
-<p align="center">While MLWA is a freemium multifunctional file manager platform. While it is a closed source project, you can access and use it using <a href="mlwa.xyz">mlwa.xyz</a> url</p>
-<p align="center">I'm currently working on an exciting project: a multifunctional bot for Telegram. It's designed to enhance user experience with a range of innovative features.</p>
-<p align="center">
-    <a href="https://github.com/theseekerofficial/Echo">
-        <kbd>
-            <img width="250" src="https://telegra.ph/file/a73a7d59d4a139df59c16.jpg" alt="Echo">
-        </kbd>
-    </a>
+## 🚀 Coding Activity
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theseekerofficial&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Map">
+</div>
 
-<div align=center>
 
-<h2 align="center">💡 Founder of The Seeker's Cave Organization</h2>
-<p align="center">At The Seeker's Cave, we're dedicated to exploring the depths of knowledge and technology. Join our quest for discovery!</p>
-<p align="center">
-    <a href="https://t.me/Maste_Torrenz_Updates">
-        <kbd>
-            <img width="100" src="https://telegra.ph/file/03d153edc3129558b4426.jpg" alt="Seekerscave">
-        </kbd>
-    </a>
+## ⚡ Tech Stack
+<div align="center">
+  <a href="https://www.python.org/doc/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+    <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://nodejs.org/en/docs/">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://www.electronjs.org/docs">
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://docs.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  <a href="https://www.typescriptlang.org/docs/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+</div>
 
-<div align=center>
 
-<h2 align="center">🏰 Mirror Leech Kingdom Telegram Group</h2>
-<p align="center">As the owner of this group, I lead the best community in the telegram of mirroring and leeching.</p>
-<p align="center">
-    <a href="https://t.me/+wAkK8_uXxUdlOTZl">
-        <kbd>
-            <img width="100" src="https://telegra.ph/file/712c6adcc56bda75794d7.jpg" alt="Seekerscave">
-        </kbd>
-    </a>
+## 🏆 Featured Open Source Projects
+<div align="center">
+  <a href="https://github.com/theseekerofficial/MLWA-Connect">
+    <img align="center" src="https://github-stats.seeker-s-cave.site/api/pin/?username=theseekerofficial&repo=MLWA-Connect&theme=gruvbox&show_owner=true"/>
+  </a>
+</div>
+<br/>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/theseekerofficial/Echo">
+    <img align="center" src="https://github-stats.seeker-s-cave.site/api/pin/?username=theseekerofficial&repo=Echo&theme=gruvbox&show_owner=true"/>
+  </a>
+</div>
+<br/>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/theseekerofficial/Contactgram">
+    <img align="center" src="https://github-stats.seeker-s-cave.site/api/pin/?username=theseekerofficial&repo=Contactgram&theme=gruvbox&show_owner=true"/>
+  </a>
+</div>
 
-<div align=center>
+## 🌐 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/theseekerofficial/count.svg)
 
-<h2 align="center">🐍 Python & AI Enthusiast</h2>
-<p align="center">Python is my go-to language, and I'm fascinated by the endless possibilities of AI.</p>
-<p align="center">
-    <a href="">
-        <kbd>
-            <img width="100" src="https://telegra.ph/file/bc3e42ea5904d91c0c656.jpg" alt="py">
-        </kbd>
-    </a>
-
-<div align=center>
-
-<h2 align="center">🎓 Education</h2>
-<p align="center">Currently expanding my knowledge and skills at the Informatics Institute of Technology (IIT) Campus.</p>
-<p align="center">
-    <a href="">
-        <kbd>
-            <img width="100" src="https://telegra.ph/file/fc562e785cc498a23a0b1.jpg" alt="iit">
-        </kbd>
-    </a>
-
-<div align=center>
-
-<h2 align="center">📫 How to Reach Me</h2>
-<p align="center">
-  Email: <a href="mailto:caveoftheseekers@gmail.com">caveoftheseekers@gmail.com</a><br>
-  Telegram: <a href="https://t.me/MrUnknown114">꓄ꃅꍟ ꌗꍟꍟꀘꍟꋪ</a>
-</p>
-
-<h2 align="center">⚡ Fun Fact</h2>
-<p align="center">I fell in love with AI and I believe it's the future of technology! Also most of the images in this file are made from an AI 🤖❤️</p>
-<p align="center">
-    <a href="">
-        <kbd>
-            <img width="200" src="https://telegra.ph/file/c50485a8a82bb1a216d71.jpg" alt="ai">
-        </kbd>
-    </a>
-
-<div align=center>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=blink"/>
+</div>
