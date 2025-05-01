@@ -1,6 +1,6 @@
 <!-- Dynamic Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile🌌&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20The%20Seeker's%20GitHub%20Profile🌌&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 </div>
 
 <div align="center">
